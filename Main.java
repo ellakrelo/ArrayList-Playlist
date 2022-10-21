@@ -11,6 +11,7 @@ public class Main
     static Scanner userIntInput = new Scanner(System.in);
     static String playlistName = "";
     static int inputNumber = 0;
+    //hi
 
     public static void main(String[] args) 
     {
